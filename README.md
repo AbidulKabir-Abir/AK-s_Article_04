@@ -1,9 +1,6 @@
 # AK-s_Article_04
 # 🧠 Cognitive Warehouse Mesh (CWM)
 ### *A Research-Inspired Framework for Self-Thinking, Self-Healing, and Cyber-Resilient Warehousing*
-<a href="[https://github.com/your-username/your-repo/blob/main/article.md](https://github.com/AbidulKabir-Abir/AK-s_Article_04/blob/0c2f5166738b8abfae65dab7c1dd3fb509d66cfc/Cognitive%20Warehouse%20Mesh%20(CWM).png)">
-  <img src="./thumbnail.png" alt="Research Thumbnail" width="600">
-</a>
 ---
 
 ## 📘 Overview  
@@ -83,3 +80,4 @@ By merging **AI cognition**, **self-healing automation**, and **adaptive cyberse
 
 If you find this research concept interesting, feel free to ⭐ the repository and explore more AI × Cybersecurity × Warehouse innovations.
 
+![image alt]([image_url](https://github.com/AbidulKabir-Abir/AK-s_Article_04/blob/main/Cognitive%20Warehouse%20Mesh%20(CWM).png?raw=true))
