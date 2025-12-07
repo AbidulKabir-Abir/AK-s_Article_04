@@ -1,7 +1,7 @@
 # AK-s_Article_04
 # 🧠 Cognitive Warehouse Mesh (CWM)
 ### *A Research-Inspired Framework for Self-Thinking, Self-Healing, and Cyber-Resilient Warehousing*
-
+[![Thumbnail]([https://your-image-link.com/image.png)](https://your-article-link.com)](https://github.com/AbidulKabir-Abir/AK-s_Article_04/blob/0c2f5166738b8abfae65dab7c1dd3fb509d66cfc/Cognitive%20Warehouse%20Mesh%20(CWM).png)
 ---
 
 ## 📘 Overview  
