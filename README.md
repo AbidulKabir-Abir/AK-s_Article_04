@@ -80,4 +80,4 @@ By merging **AI cognition**, **self-healing automation**, and **adaptive cyberse
 
 If you find this research concept interesting, feel free to ⭐ the repository and explore more AI × Cybersecurity × Warehouse innovations.
 
-![image alt]([image_url](https://github.com/AbidulKabir-Abir/AK-s_Article_04/blob/main/Cognitive%20Warehouse%20Mesh%20(CWM).png?raw=true))
+![image alt][image_url](https://github.com/AbidulKabir-Abir/AK-s_Article_04/blob/main/Cognitive%20Warehouse%20Mesh%20(CWM).png?raw=true)
