@@ -79,5 +79,7 @@ CWM represents a bold new direction in warehouse design.
 By merging **AI cognition**, **self-healing automation**, and **adaptive cybersecurity**, the Cognitive Warehouse Mesh introduces a future where warehouses operate with **speed, intelligence, and biological resilience**.
 
 If you find this research concept interesting, feel free to ⭐ the repository and explore more AI × Cybersecurity × Warehouse innovations.
+<img src="./[Cognitive%20Warehouse%20Mesh%20(CWM)](https://github.com/AbidulKabir-Abir/AK-s_Article_04/blob/0c2f5166738b8abfae65dab7c1dd3fb509d66cfc/Cognitive%20Warehouse%20Mesh%20(CWM).png).png" width="300">
+
 
 ![image alt](https://github.com/AbidulKabir-Abir/AK-s_Article_04/blob/0c2f5166738b8abfae65dab7c1dd3fb509d66cfc/Cognitive%20Warehouse%20Mesh%20(CWM).png)
